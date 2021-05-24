@@ -1,2 +1,2 @@
-# symfony_demo
+# Symfony Demo
 A simple Symfony 5 demo
